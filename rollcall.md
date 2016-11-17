@@ -289,3 +289,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: birgit.penzenstadler@csulb.edu
 	* Github: kamikitty
 	* Twitter: twinkleflip
+	
+* Chi Zhang, Kennesaw State University
+
+	* Email: chizhang@kennesaw.edu
+	* Github: chispsu
