@@ -279,3 +279,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: nakazawam@berea.edu
 	* GitHub: mario-nakazawa
 	* IRC: nakazawa
+
+* Cii Zhang, Kennesaw State University
+	* Email: chizhang@kennesaw.edu
+	* GitHub: chispsu
+	* IRC: chi
